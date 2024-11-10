@@ -1,21 +1,20 @@
 {
-    "rewrites": [
-      {
-        "source": "/primefix.iDXD.site/:path*",
-        "destination": "@TARGET_DOMAIN/:path*"
-      },
-      {
-        "source": "/jod.iDXD.site/:path*",
-        "destination": "@TARGET_DOMAIN/:path*"
-      },
-      {
-        "source": "/devil.iDXD.site/:path*",
-        "destination": "@TARGET_DOMAIN/:path*"
-      },
-      {
-        "source": "/tyrell.iDXD.site/:path*",
-        "destination": "@TARGET_DOMAIN/:path*"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/primefix.iDXD.site/:path*",
+      "destination": "@TARGET_DOMAIN/:path*"
+    },
+    {
+      "source": "/jod.iDXD.site/:path*",
+      "destination": "@TARGET_DOMAIN/:path*"
+    },
+    {
+      "source": "/devil.iDXD.site/:path*",
+      "destination": "@TARGET_DOMAIN/:path*"
+    },
+    {
+      "source": "/tyrell.iDXD.site/:path*",
+      "destination": "@TARGET_DOMAIN/:path*"
+    }
+  ]
+}
